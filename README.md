@@ -2,6 +2,7 @@
 HR Analytics Case Study
 
 Problem Statement
+
 A large company named XYZ, employs, at any given point of time, around 4000 employees. However, every year,
 around 15% of its employees leave the company 
 and need to be replaced with the talent pool available in the job market. 
@@ -26,6 +27,7 @@ Also, they want to know which of these variables is most important and needs to 
 Since you are one of the star analysts at the firm, this project has been given to you.
 
 Goal of the case study
+
 You are required to model the probability of attrition using a logistic regression.
 The results thus obtained will be used by the management to understand what changes they should make to their workplace,
 in order to get most of their employees to stay.
